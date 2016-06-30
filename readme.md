@@ -1,8 +1,6 @@
 # diatonic [![Build Status](https://secure.travis-ci.org/johnotander/diatonic.svg?branch=master)](https://travis-ci.org/johnotander/diatonic) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-Object with diatonic scale values.
-
-From <http://ty-p.cc/>
+Object with diatonic scale values based on [typ-c](http://ty-p.cc/) by [mrmrs](https://twitter.com/mrmrs_).
 
 ## Installation
 
