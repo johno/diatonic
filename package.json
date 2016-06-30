@@ -1,0 +1,21 @@
+{
+  "name": "diatonic",
+  "description": "Object with diatonic scale values",
+  "author": "John Otander",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "johnotander/diatonic",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*",
+    "is-present": "^1.0.0"
+  }
+}
